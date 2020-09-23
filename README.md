@@ -23,11 +23,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/sVt3nui" width=250><br>
+<img src="https://imgur.com/jQwfnoY" width=250><br>
 
 ### Notes
 
-I finished the code and it runs but my emulator does not show the app. I went back to see if I made a mistake anywhere but could not find a solution.
+I finished the code and it runs but my emulator does not show the app. I went back to see if I made a mistake anywhere but could not find a solution. *UPDATE* I revised the code with help from professor and found the solution.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
